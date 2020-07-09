@@ -1,0 +1,7 @@
+G:\DotNet\FirstApp\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+G:\DotNet\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+G:\DotNet\FirstApp\FirstApp\bin\Debug\ShaffatFirstApp.exe.config
+G:\DotNet\FirstApp\FirstApp\bin\Debug\ShaffatFirstApp.exe
+G:\DotNet\FirstApp\FirstApp\bin\Debug\ShaffatFirstApp.pdb
+G:\DotNet\FirstApp\FirstApp\obj\Debug\ShaffatFirstApp.exe
+G:\DotNet\FirstApp\FirstApp\obj\Debug\ShaffatFirstApp.pdb
